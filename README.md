@@ -8,9 +8,6 @@ Bem-vindo ao meu repositório de exercícios de Dart! Aqui você encontrará uma
 
 - [Sobre](#sobre)
 - [Estrutura do Repositório](#estrutura-do-repositório)
-- [Como Executar os Exercícios](#como-executar-os-exercícios)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
 
 ## Sobre
 
