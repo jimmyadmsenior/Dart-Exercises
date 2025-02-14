@@ -7,13 +7,7 @@ Bem-vindo ao meu repositório de exercícios de Dart! Aqui você encontrará uma
 ## Índice
 
 - [Sobre](#sobre)
-- [Estrutura do Repositório](#estrutura-do-repositório)
 
 ## Sobre
 
 Dart é uma linguagem de programação desenvolvida pela Google, usada principalmente para construir aplicações móveis, web e de servidor. Este repositório contém exercícios práticos que ajudam a entender os conceitos fundamentais da linguagem.
-
-## Estrutura do Repositório
-
-O repositório está estruturado da seguinte forma:
-
